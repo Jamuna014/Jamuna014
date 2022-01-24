@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Wed development projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
 - 📫 How to reach me **gayathrijamuna64@gmail.com**
 
