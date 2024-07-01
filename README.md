@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying at **Rathnavel subramaniam College of arts & Science**
-
-- 🌱 I’m currently learning **Full Stack Development**
+- 🔭 I’m currently working as Software Developer at **KPR Info Solution**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
